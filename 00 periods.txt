@@ -1,0 +1,67 @@
+PERIODS.
+
+For distance of 0mm: 
+Trial 1 = 728.8
+Trial 2 = 733.5
+Trial 3 = 734.3
+Average period = 732.2
+
+For distance of 12mm: 
+Trial 1 = 751.5
+Trial 2 = 756.5
+Trial 3 = 756.3
+Average period = 754.8
+
+For distance of 24mm: 
+Trial 1 = 777.6
+Trial 2 = 776.1
+Trial 3 = 780.4
+Average period = 778.0
+
+For distance of 36mm: 
+Trial 1 = 805.6
+Trial 2 = 803.6
+Trial 3 = 802.3
+Average period = 803.8
+
+For distance of 48mm: 
+Trial 1 = 834.2
+Trial 2 = 835.4
+Trial 3 = 834.2
+Average period = 834.6
+
+For distance of 60mm: 
+Trial 1 = 868.5
+Trial 2 = 868.1
+Trial 3 = 873.1
+Average period = 869.9
+
+For distance of 72mm: 
+Trial 1 = 911.2
+Trial 2 = 906.4
+Trial 3 = 908.1
+Average period = 908.6
+
+For distance of 84mm: 
+Trial 1 = 947.7
+Trial 2 = 942.4
+Trial 3 = 946.0
+Average period = 945.4
+
+For distance of 96mm: 
+Trial 1 = 976.9
+Trial 2 = 987.8
+Trial 3 = 976.8
+Average period = 980.5
+
+For distance of 108mm: 
+Trial 1 = 1029.6
+Trial 2 = 1025.5
+Trial 3 = 1026.0
+Average period = 1027.0
+
+For distance of 120mm: 
+Trial 1 = 1068.9
+Trial 2 = 1081.8
+Trial 3 = 1076.2
+Average period = 1075.6
