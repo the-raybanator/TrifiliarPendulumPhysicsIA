@@ -24,8 +24,8 @@ const int zPin = A2;
 const float sensitivity = 0.1 * voltage_supply;
 
 // Biases -> voltage WHEN ACCELERATION = O
-// starting value is half of the supply (datasheet: bias is ratiometric)
-// can be replaced by values found through using voltage readings, when at rest
+// starting value is half of the supply
+// can be replaced by voltage readings, when at rest
 const float x_bias_voltage = 1.63;
 const float y_bias_voltage = voltage_supply / 2;
 const float z_bias_voltage = voltage_supply / 2;
@@ -43,6 +43,7 @@ void setup() {
   analogReference(EXTERNAL);    // use the voltage on the AREF pin (3.3 V) as the ADC reference
   Serial.begin(9600);
 }
+
 
 void loop() {
   x_ADC = analogRead(xPin);
